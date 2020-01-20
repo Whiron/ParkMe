@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "229242738247",
+    "firebase_url": "https://park-me-af14c.firebaseio.com",
+    "project_id": "park-me-af14c",
+    "storage_bucket": "park-me-af14c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229242738247:android:6b84dfdd62eae4b5",
+        "android_client_info": {
+          "package_name": "com.example.sarthak.parkme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229242738247-hqaradk88er0flpt26pcnpsopeh1qrp2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnnuKGe2oxRsOC2XAlFBuV-o1SSXOZhEw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
